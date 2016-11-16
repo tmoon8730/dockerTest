@@ -9,3 +9,4 @@ if [[  `git status --porcelain`  ]]; then
 else
   # No changes have been made
   echo "No changes have been made"
+fi
